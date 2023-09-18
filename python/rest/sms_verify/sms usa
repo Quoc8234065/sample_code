@@ -1,0 +1,31 @@
+{
+  "id": "96a0b5fa-a986-453d-be5c-3117f989f025",
+  "channelId": "614208aa-b153-4d5d-9989-2fddfc0ce4c3",
+  "sender": {
+    "contact": {
+      "id": "32cf5eee-f940-422c-ab8c-5f753aad5efd",
+      "identifierKey": "phonenumber",
+      "identifierValue": "+15174233151"
+    }
+  },
+  "receiver": {
+    "connector": {
+      "id": "86cc4dc0-3dc0-41b7-ac43-8ec829ead56f"
+    }
+  },
+  "body": {
+    "type": "text",
+    "text": {
+      "text": "Sample incoming text message"
+    }
+  },
+  "parts": [
+    {
+      "platformReference": "e8077d803532c0b5937c639b60216938"
+    }
+  ],
+  "status": "delivered",
+  "direction": "incoming",
+  "lastStatusAt": "2022-12-22T08:32:50.736Z",
+  "createdAt": "2022-12-22T08:32:50.736Z",
+  "updatedAt": "2022-12-22T08:32:50.736Z"
